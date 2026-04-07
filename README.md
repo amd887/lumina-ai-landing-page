@@ -1,0 +1,1 @@
+Lumina AI adalah konsep desain landing page modern menggunakan HTML murni dan Tailwind CSS. Proyek ini mendemonstrasikan penggunaan efek UI Glassmorphism, desain responsif, dan struktur kode yang bersih.
